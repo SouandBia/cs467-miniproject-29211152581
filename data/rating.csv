@@ -1,0 +1,241 @@
+﻿user_id,item_id,rating,player_review
+U01,G001,5,Engaging systems with plenty to discover.
+U01,G002,3,"Enjoyable at times, but repetitive after a while."
+U01,G004,4,Fantastic mechanics and rewarding progression.
+U01,G005,4,Engaging systems with plenty to discover.
+U01,G006,3,Decent experience with a few frustrating sections.
+U01,G007,1,Disappointing pacing and too many bugs.
+U01,G012,2,Confusing systems made the experience tedious.
+U01,G018,4,Excellent world design and memorable moments.
+U01,G019,3,"Interesting premise, although the controls take practice."
+U01,G028,3,"Enjoyable at times, but repetitive after a while."
+U01,G029,2,Repetitive missions and frustrating controls.
+U01,G036,3,Decent experience with a few frustrating sections.
+U01,G037,4,Fun to play and easy to recommend.
+U01,G038,4,Engaging systems with plenty to discover.
+U01,G039,5,Excellent world design and memorable moments.
+U01,G040,5,Really enjoyed the atmosphere and exploration.
+U02,G001,3,"Interesting premise, although the controls take practice."
+U02,G006,5,Fantastic mechanics and rewarding progression.
+U02,G007,3,"Enjoyable at times, but repetitive after a while."
+U02,G008,4,Excellent world design and memorable moments.
+U02,G009,5,Great variety and satisfying gameplay.
+U02,G010,2,Disappointing pacing and too many bugs.
+U02,G020,2,Disappointing pacing and too many bugs.
+U02,G022,2,Disappointing pacing and too many bugs.
+U02,G023,3,"Some good ideas, but the pacing feels uneven."
+U02,G024,4,Really enjoyed the atmosphere and exploration.
+U02,G025,3,"Interesting premise, although the controls take practice."
+U02,G032,1,Confusing systems made the experience tedious.
+U02,G033,2,Disappointing pacing and too many bugs.
+U02,G034,5,Great variety and satisfying gameplay.
+U02,G035,3,"Interesting premise, although the controls take practice."
+U02,G036,2,Confusing systems made the experience tedious.
+U03,G001,3,Decent experience with a few frustrating sections.
+U03,G003,2,Disappointing pacing and too many bugs.
+U03,G010,2,Boring progression with little variety.
+U03,G014,4,Really enjoyed the atmosphere and exploration.
+U03,G015,3,Decent experience with a few frustrating sections.
+U03,G016,4,Fantastic mechanics and rewarding progression.
+U03,G017,3,"Some good ideas, but the pacing feels uneven."
+U03,G018,2,Confusing systems made the experience tedious.
+U03,G019,4,Really enjoyed the atmosphere and exploration.
+U03,G021,3,"Some good ideas, but the pacing feels uneven."
+U03,G022,3,"Interesting premise, although the controls take practice."
+U03,G025,4,Fantastic mechanics and rewarding progression.
+U03,G034,5,Excellent world design and memorable moments.
+U03,G035,3,"Interesting premise, although the controls take practice."
+U03,G038,3,"Enjoyable at times, but repetitive after a while."
+U03,G039,2,Boring progression with little variety.
+U04,G002,2,Repetitive missions and frustrating controls.
+U04,G003,3,Decent experience with a few frustrating sections.
+U04,G008,1,Boring progression with little variety.
+U04,G011,3,Decent experience with a few frustrating sections.
+U04,G015,2,Repetitive missions and frustrating controls.
+U04,G018,2,Confusing systems made the experience tedious.
+U04,G021,4,Great variety and satisfying gameplay.
+U04,G022,2,Boring progression with little variety.
+U04,G026,5,Really enjoyed the atmosphere and exploration.
+U04,G027,3,"Interesting premise, although the controls take practice."
+U04,G028,4,Really enjoyed the atmosphere and exploration.
+U04,G029,5,Fantastic mechanics and rewarding progression.
+U04,G030,5,Fun to play and easy to recommend.
+U04,G031,5,Great variety and satisfying gameplay.
+U04,G032,1,Disappointing pacing and too many bugs.
+U04,G035,2,Boring progression with little variety.
+U05,G004,3,"Interesting premise, although the controls take practice."
+U05,G007,4,Engaging systems with plenty to discover.
+U05,G011,3,"Enjoyable at times, but repetitive after a while."
+U05,G012,2,Boring progression with little variety.
+U05,G013,4,Engaging systems with plenty to discover.
+U05,G024,4,Fun to play and easy to recommend.
+U05,G025,2,Disappointing pacing and too many bugs.
+U05,G027,3,"Enjoyable at times, but repetitive after a while."
+U05,G029,3,"Some good ideas, but the pacing feels uneven."
+U05,G031,5,Fun to play and easy to recommend.
+U05,G032,2,Boring progression with little variety.
+U05,G033,2,Repetitive missions and frustrating controls.
+U05,G034,3,"Some good ideas, but the pacing feels uneven."
+U05,G038,3,"Some good ideas, but the pacing feels uneven."
+U05,G039,2,Confusing systems made the experience tedious.
+U05,G040,3,"Enjoyable at times, but repetitive after a while."
+U06,G003,4,Excellent world design and memorable moments.
+U06,G004,2,Confusing systems made the experience tedious.
+U06,G006,2,Confusing systems made the experience tedious.
+U06,G007,3,Decent experience with a few frustrating sections.
+U06,G011,2,Repetitive missions and frustrating controls.
+U06,G014,3,"Interesting premise, although the controls take practice."
+U06,G015,1,Confusing systems made the experience tedious.
+U06,G017,2,Confusing systems made the experience tedious.
+U06,G019,3,"Some good ideas, but the pacing feels uneven."
+U06,G021,5,Fun to play and easy to recommend.
+U06,G022,4,Engaging systems with plenty to discover.
+U06,G026,3,"Some good ideas, but the pacing feels uneven."
+U06,G027,2,Repetitive missions and frustrating controls.
+U06,G028,4,Fun to play and easy to recommend.
+U06,G037,2,Repetitive missions and frustrating controls.
+U06,G040,1,Disappointing pacing and too many bugs.
+U07,G003,1,Confusing systems made the experience tedious.
+U07,G007,3,"Enjoyable at times, but repetitive after a while."
+U07,G008,3,"Some good ideas, but the pacing feels uneven."
+U07,G010,1,Boring progression with little variety.
+U07,G011,2,Repetitive missions and frustrating controls.
+U07,G012,3,"Enjoyable at times, but repetitive after a while."
+U07,G013,5,Great variety and satisfying gameplay.
+U07,G015,2,Boring progression with little variety.
+U07,G016,2,Confusing systems made the experience tedious.
+U07,G019,3,Decent experience with a few frustrating sections.
+U07,G021,2,Boring progression with little variety.
+U07,G022,3,"Interesting premise, although the controls take practice."
+U07,G031,3,"Interesting premise, although the controls take practice."
+U07,G032,3,Decent experience with a few frustrating sections.
+U07,G036,1,Boring progression with little variety.
+U07,G037,3,Decent experience with a few frustrating sections.
+U08,G001,3,"Some good ideas, but the pacing feels uneven."
+U08,G004,4,Excellent world design and memorable moments.
+U08,G005,4,Great variety and satisfying gameplay.
+U08,G006,3,Decent experience with a few frustrating sections.
+U08,G007,5,Great variety and satisfying gameplay.
+U08,G008,4,Really enjoyed the atmosphere and exploration.
+U08,G011,2,Confusing systems made the experience tedious.
+U08,G012,2,Repetitive missions and frustrating controls.
+U08,G014,2,Disappointing pacing and too many bugs.
+U08,G016,3,"Some good ideas, but the pacing feels uneven."
+U08,G018,3,Decent experience with a few frustrating sections.
+U08,G034,3,Decent experience with a few frustrating sections.
+U08,G036,5,Fantastic mechanics and rewarding progression.
+U08,G037,4,Fun to play and easy to recommend.
+U08,G039,4,Great variety and satisfying gameplay.
+U08,G040,3,"Some good ideas, but the pacing feels uneven."
+U09,G001,3,Decent experience with a few frustrating sections.
+U09,G003,1,Confusing systems made the experience tedious.
+U09,G008,3,Decent experience with a few frustrating sections.
+U09,G009,2,Confusing systems made the experience tedious.
+U09,G010,2,Disappointing pacing and too many bugs.
+U09,G013,2,Disappointing pacing and too many bugs.
+U09,G017,2,Boring progression with little variety.
+U09,G019,4,Excellent world design and memorable moments.
+U09,G024,3,"Enjoyable at times, but repetitive after a while."
+U09,G026,4,Great variety and satisfying gameplay.
+U09,G027,3,Decent experience with a few frustrating sections.
+U09,G028,5,Excellent world design and memorable moments.
+U09,G029,4,Great variety and satisfying gameplay.
+U09,G030,4,Fantastic mechanics and rewarding progression.
+U09,G039,2,Boring progression with little variety.
+U09,G040,1,Repetitive missions and frustrating controls.
+U10,G004,1,Repetitive missions and frustrating controls.
+U10,G011,5,Excellent world design and memorable moments.
+U10,G012,3,"Interesting premise, although the controls take practice."
+U10,G014,2,Confusing systems made the experience tedious.
+U10,G015,2,Boring progression with little variety.
+U10,G019,2,Disappointing pacing and too many bugs.
+U10,G021,2,Confusing systems made the experience tedious.
+U10,G022,1,Boring progression with little variety.
+U10,G023,3,"Some good ideas, but the pacing feels uneven."
+U10,G024,2,Disappointing pacing and too many bugs.
+U10,G025,2,Boring progression with little variety.
+U10,G027,3,Decent experience with a few frustrating sections.
+U10,G028,2,Repetitive missions and frustrating controls.
+U10,G032,1,Boring progression with little variety.
+U10,G035,1,Confusing systems made the experience tedious.
+U10,G038,1,Confusing systems made the experience tedious.
+U11,G001,3,"Enjoyable at times, but repetitive after a while."
+U11,G002,4,Really enjoyed the atmosphere and exploration.
+U11,G004,2,Boring progression with little variety.
+U11,G005,2,Disappointing pacing and too many bugs.
+U11,G008,4,Great variety and satisfying gameplay.
+U11,G009,3,Decent experience with a few frustrating sections.
+U11,G013,4,Excellent world design and memorable moments.
+U11,G018,4,Engaging systems with plenty to discover.
+U11,G019,5,Great variety and satisfying gameplay.
+U11,G020,2,Boring progression with little variety.
+U11,G022,2,Boring progression with little variety.
+U11,G024,1,Boring progression with little variety.
+U11,G027,2,Disappointing pacing and too many bugs.
+U11,G029,2,Disappointing pacing and too many bugs.
+U11,G038,2,Disappointing pacing and too many bugs.
+U11,G040,2,Repetitive missions and frustrating controls.
+U12,G001,3,"Interesting premise, although the controls take practice."
+U12,G004,3,"Enjoyable at times, but repetitive after a while."
+U12,G006,3,"Some good ideas, but the pacing feels uneven."
+U12,G007,1,Boring progression with little variety.
+U12,G008,5,Really enjoyed the atmosphere and exploration.
+U12,G009,4,Fantastic mechanics and rewarding progression.
+U12,G012,5,Really enjoyed the atmosphere and exploration.
+U12,G021,3,"Enjoyable at times, but repetitive after a while."
+U12,G023,4,Fun to play and easy to recommend.
+U12,G024,4,Excellent world design and memorable moments.
+U12,G027,3,"Interesting premise, although the controls take practice."
+U12,G028,3,"Some good ideas, but the pacing feels uneven."
+U12,G032,2,Boring progression with little variety.
+U12,G033,2,Repetitive missions and frustrating controls.
+U12,G035,5,Engaging systems with plenty to discover.
+U12,G036,3,"Interesting premise, although the controls take practice."
+U13,G001,3,Decent experience with a few frustrating sections.
+U13,G002,3,Decent experience with a few frustrating sections.
+U13,G012,1,Repetitive missions and frustrating controls.
+U13,G015,4,Great variety and satisfying gameplay.
+U13,G017,3,Decent experience with a few frustrating sections.
+U13,G019,2,Disappointing pacing and too many bugs.
+U13,G022,3,"Enjoyable at times, but repetitive after a while."
+U13,G023,5,Excellent world design and memorable moments.
+U13,G024,5,Fantastic mechanics and rewarding progression.
+U13,G025,3,"Some good ideas, but the pacing feels uneven."
+U13,G028,2,Confusing systems made the experience tedious.
+U13,G032,3,"Interesting premise, although the controls take practice."
+U13,G033,4,Really enjoyed the atmosphere and exploration.
+U13,G038,4,Fun to play and easy to recommend.
+U13,G039,4,Great variety and satisfying gameplay.
+U13,G040,4,Excellent world design and memorable moments.
+U14,G008,3,"Some good ideas, but the pacing feels uneven."
+U14,G009,2,Disappointing pacing and too many bugs.
+U14,G014,3,Decent experience with a few frustrating sections.
+U14,G015,3,Decent experience with a few frustrating sections.
+U14,G016,3,Decent experience with a few frustrating sections.
+U14,G018,3,"Enjoyable at times, but repetitive after a while."
+U14,G019,2,Repetitive missions and frustrating controls.
+U14,G020,3,Decent experience with a few frustrating sections.
+U14,G022,2,Repetitive missions and frustrating controls.
+U14,G023,3,"Interesting premise, although the controls take practice."
+U14,G024,2,Boring progression with little variety.
+U14,G026,3,"Some good ideas, but the pacing feels uneven."
+U14,G029,2,Boring progression with little variety.
+U14,G031,2,Disappointing pacing and too many bugs.
+U14,G034,5,Excellent world design and memorable moments.
+U14,G035,3,"Some good ideas, but the pacing feels uneven."
+U15,G004,3,Decent experience with a few frustrating sections.
+U15,G005,5,Great variety and satisfying gameplay.
+U15,G006,5,Fantastic mechanics and rewarding progression.
+U15,G007,4,Fantastic mechanics and rewarding progression.
+U15,G009,2,Confusing systems made the experience tedious.
+U15,G010,2,Confusing systems made the experience tedious.
+U15,G016,3,"Some good ideas, but the pacing feels uneven."
+U15,G021,3,"Interesting premise, although the controls take practice."
+U15,G026,4,Engaging systems with plenty to discover.
+U15,G027,4,Great variety and satisfying gameplay.
+U15,G034,2,Disappointing pacing and too many bugs.
+U15,G036,2,Disappointing pacing and too many bugs.
+U15,G037,4,Great variety and satisfying gameplay.
+U15,G038,1,Repetitive missions and frustrating controls.
+U15,G039,3,"Some good ideas, but the pacing feels uneven."
+U15,G040,1,Boring progression with little variety.

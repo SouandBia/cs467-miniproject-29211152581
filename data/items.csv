@@ -1,0 +1,41 @@
+﻿item_id,title,platform,genre_tags,store_description,play_mode
+G001,Minecraft,"PC,Console",sandbox|survival|crafting|open world,"Build shelters, gather resources, and explore procedurally generated biomes in a creative survival sandbox.",single-player|multiplayer
+G002,Terraria,"PC,Console",sandbox|crafting|exploration|survival,"Dig through caverns, craft equipment, and battle bosses in a sprawling two-dimensional sandbox.",single-player|multiplayer
+G003,Stardew Valley,"PC,Console",farming|simulation|crafting|relaxing,"Restore a family farm, grow crops, befriend villagers, and explore mysterious mines.",single-player|multiplayer
+G004,Subnautica,"PC,Console",survival|exploration|crafting|open world,"Survive on an alien ocean planet by exploring reefs, gathering materials, and crafting underwater bases.",single-player
+G005,No Man’s Sky,"PC,Console",space|exploration|crafting|open world,"Explore countless planets, build bases, trade resources, and uncover a science fiction mystery.",single-player|multiplayer
+G006,The Witcher 3,"PC,Console",rpg|story rich|open world|fantasy,Hunt monsters across a vast fantasy world while making choices that shape a branching narrative.,single-player
+G007,Red Dead Redemption 2,"PC,Console",open world|story rich|action|western,Ride across a detailed frontier and follow an outlaw gang through a dramatic character-driven story.,single-player|multiplayer
+G008,Cyberpunk 2077,"PC,Console",rpg|story rich|open world|sci-fi,"Explore a neon metropolis, upgrade cybernetic abilities, and navigate branching quests.",single-player
+G009,Elden Ring,"PC,Console",soulslike|rpg|open world|fantasy,Discover hidden dungeons and challenging bosses across a mysterious open fantasy realm.,single-player|multiplayer
+G010,Hollow Knight,"PC,Console",metroidvania|exploration|platformer|difficult,"Explore interconnected underground ruins, unlock movement abilities, and face precise combat challenges.",single-player
+G011,Celeste,"PC,Console",platformer|precision|story rich|indie,Climb a dangerous mountain through precise platforming and a personal story about perseverance.,single-player
+G012,Hades,"PC,Console",roguelike|action|mythology|story rich,Escape an ever-changing underworld with fast combat and evolving character conversations.,single-player
+G013,Dead Cells,"PC,Console",roguelike|metroidvania|action|difficult,"Fight through shifting castle levels, collect weapons, and master quick movement.",single-player
+G014,Slay the Spire,"PC,Console",deckbuilding|strategy|roguelike|turn based,"Build a card deck, choose branching paths, and defeat enemies in tactical turn-based battles.",single-player
+G015,Balatro,"PC,Console",deckbuilding|strategy|roguelike|cards,Combine poker hands with unusual joker effects to build powerful scoring combinations.,single-player
+G016,Civilization VI,"PC,Console",strategy|turn based|4x|historical,"Lead a civilization through research, diplomacy, city building, and turn-based warfare.",single-player|multiplayer
+G017,Age of Empires IV,"PC,Console",strategy|rts|historical|multiplayer,"Gather resources, construct settlements, and command armies in historical real-time battles.",single-player|multiplayer
+G018,Factorio,PC,automation|factory|crafting|strategy,"Design automated production lines, manage logistics, and defend a growing industrial factory.",single-player|multiplayer
+G019,Satisfactory,"PC,Console",automation|factory|open world|crafting,Build enormous three-dimensional factories while exploring an alien landscape for resources.,single-player|multiplayer
+G020,RimWorld,"PC,Console",colony sim|survival|strategy|story generator,"Manage colonists, construct a settlement, and adapt to unpredictable events on a distant planet.",single-player
+G021,Cities: Skylines,"PC,Console",city builder|simulation|management|strategy,"Plan roads, utilities, and districts while balancing the needs of a growing city.",single-player
+G022,The Sims 4,"PC,Console",life sim|building|casual|sandbox,"Create households, build homes, and guide everyday relationships and careers.",single-player
+G023,Portal 2,"PC,Console",puzzle|story rich|co-op|sci-fi,Solve physics puzzles with linked portals and uncover the secrets of a strange research facility.,single-player|co-op
+G024,It Takes Two,"PC,Console",co-op|platformer|puzzle|story rich,Two players cooperate through inventive puzzles and playful platforming challenges.,co-op
+G025,Overcooked! 2,"PC,Console",co-op|party|cooking|casual,Coordinate a chaotic kitchen with friends to prepare meals against the clock.,single-player|co-op
+G026,Rocket League,"PC,Console",sports|racing|competitive|multiplayer,Drive rocket-powered cars to score goals in fast team-based arena matches.,single-player|multiplayer
+G027,Forza Horizon 5,"PC,Console",racing|open world|driving|multiplayer,Race and collect cars across a vibrant open-world landscape with diverse driving events.,single-player|multiplayer
+G028,EA Sports FC 25,"PC,Console",sports|football|simulation|competitive,Manage football tactics and compete in authentic club and international matches.,single-player|multiplayer
+G029,Counter-Strike 2,PC,fps|competitive|tactical|multiplayer,"Coordinate precise shooting, equipment purchases, and bomb objectives in tactical team rounds.",multiplayer
+G030,Valorant,"PC,Console",fps|competitive|tactical|hero shooter,Use agent abilities and accurate gunplay to win objective-based tactical rounds.,multiplayer
+G031,Apex Legends,"PC,Console",battle royale|fps|hero shooter|multiplayer,Choose unique legends and fight in squad-based battle royale matches with fluid movement.,multiplayer
+G032,Deep Rock Galactic,"PC,Console",co-op|fps|mining|procedural,Work as space miners to collect minerals and survive alien swarms in destructible caves.,single-player|co-op
+G033,Monster Hunter: World,"PC,Console",action rpg|co-op|crafting|boss fights,"Track giant monsters, learn their attacks, and craft better equipment from gathered materials.",single-player|co-op
+G034,Baldur’s Gate 3,"PC,Console",rpg|story rich|turn based|fantasy,Lead a party through choice-driven quests and tactical battles in a reactive fantasy world.,single-player|multiplayer
+G035,Disco Elysium,"PC,Console",rpg|detective|story rich|dialogue,"Investigate a murder through dialogue, skill checks, and difficult moral decisions.",single-player
+G036,Outer Wilds,"PC,Console",exploration|mystery|space|story rich,Investigate a small solar system and unravel a time-loop mystery through discovery.,single-player
+G037,DAVE THE DIVER,"PC,Console",adventure|management|exploration|fishing,Dive for sea creatures by day and manage a sushi restaurant by night.,single-player
+G038,Don’t Starve Together,"PC,Console",survival|crafting|co-op|sandbox,"Gather food, build camps, and survive strange seasons with friends in a hostile wilderness.",multiplayer|co-op
+G039,Sea of Thieves,"PC,Console",pirates|open world|co-op|exploration,"Sail with a crew, search islands for treasure, and face rival ships on the open sea.",multiplayer|co-op
+G040,Palworld,"PC,Console",survival|crafting|creature collecting|open world,"Capture creatures, construct bases, and explore a wilderness with survival mechanics.",single-player|multiplayer
