@@ -1,0 +1,27 @@
+CS467 MP-A12 — STEP 4 REQUIRED TEST CASES
+NOTE: Examples use all available data. They are demonstrations, NOT offline test metrics.
+
+CASE 1 — Gameplay query: 'story driven open world exploration with crafting'
+  1. Subnautica [G004] score=0.2878; keywords=exploration crafting, crafting, exploration, open world, open
+  2. No Man’s Sky [G005] score=0.2628; keywords=exploration crafting, exploration, crafting, open world, open
+  3. Red Dead Redemption 2 [G007] score=0.2324; keywords=driven, story, open world, open, world
+  4. Sea of Thieves [G039] score=0.1631; keywords=open, exploration, open world, world
+  5. Forza Horizon 5 [G027] score=0.1613; keywords=open world, open, world
+
+CASE 2 — Player library: Top-5 unrated games for U01 (16 previously rated games), via hybrid recommender
+  1. Baldur’s Gate 3 [G034] score=0.9000; keywords=none (CF/review-driven match); CF estimated rating=5.00/5; review sentiment=+0.33
+  2. Portal 2 [G023] score=0.8298; keywords=none (CF/review-driven match); CF estimated rating=4.37/5; review sentiment=+0.60
+  3. Disco Elysium [G035] score=0.7259; keywords=none (CF/review-driven match); CF estimated rating=4.15/5; review sentiment=+0.17
+  4. Rocket League [G026] score=0.7103; keywords=none (CF/review-driven match); CF estimated rating=3.69/5; review sentiment=+0.60
+  5. It Takes Two [G024] score=0.6894; keywords=none (CF/review-driven match); CF estimated rating=3.98/5; review sentiment=+0.12
+  All five games excluded from U01's existing library: True
+
+CASE 3 — Cold-start: Added Forestcraft Horizons (fictional indie game) [NEW001] with metadata only and no ratings
+  1. Forestcraft Horizons (fictional indie game) [NEW001] score=0.5126; keywords=world exploration, story driven, driven open, exploration crafting, driven
+  2. Subnautica [G004] score=0.1999; keywords=exploration crafting, crafting, exploration, open world, open
+  3. No Man’s Sky [G005] score=0.1824; keywords=exploration crafting, exploration, crafting, open world, open
+  4. Red Dead Redemption 2 [G007] score=0.1610; keywords=driven, story, open world, open, world
+  5. Sea of Thieves [G039] score=0.1160; keywords=open, exploration, open world, world
+  Cold-start game appears in top five: True
+  Cold-start game has zero player ratings: True
+  Cold-start game rank: 1

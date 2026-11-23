@@ -1,0 +1,23 @@
+CS467 MP-A12 — STEP 4 OFFLINE EVALUATION
+Seed: 42; per-player ~20% holdout; train ratings: 195; test ratings: 45
+All three algorithms are fitted using ONLY training ratings and reviews.
+Relevant game = hidden game with rating >= 4/5; all predictions exclude training games.
+Precision@5 = number of relevant hidden recommendations / 5, macro-averaged over test users.
+Recall@5 = relevant hidden recommendations / number of hidden relevant games; only users with hidden relevant games are included.
+Hit Rate@5 = fraction of test users with >= 1 hidden relevant game recommended.
+
+       method  users_evaluated  users_with_relevant_test_items  precision_at_5  recall_at_5  hit_rate_at_5  mean_returned_recommendations
+   Popularity               15                              11          0.0133       0.0909         0.0667                         5.0000
+Content-Based               15                              11          0.0800       0.4545         0.4000                         4.4000
+       Hybrid               15                              11          0.0000       0.0000         0.0000                         5.0000
+
+User-based CF numeric rating estimates: coverage=44/45 held-out ratings (97.8%), MAE=0.9847, RMSE=1.3274 (measured on covered pairs only).
+Hybrid/content ranking scores are NOT numeric rating predictions and have no RMSE/MAE.
+
+CAUTIONS:
+- All ratings and player reviews are synthetic; rankings do not prove real-world accuracy.
+- With only three hidden interactions per user, Precision@5 is noisy and small.
+- Top-5 sample queries / cold-start examples were run separately on the full dataset,
+  not used to calculate the held-out ranking metrics.
+- The holdout contains only observed ratings; unknown preferences are unmeasured.
+- Small training overlaps limit user-based CF; missing predictions affect coverage.
